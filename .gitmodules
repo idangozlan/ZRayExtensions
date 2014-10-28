@@ -1,0 +1,28 @@
+[submodule "Apigility"]
+	path = Apigility
+	url = https://github.com/zend-server-extensions/Z-Ray-Apigility.git
+[submodule "Drupal"]
+	path = Drupal
+	url = https://github.com/zend-server-extensions/Z-Ray-Drupal.git
+[submodule "Magento"]
+	path = Magento
+	url = https://github.com/zend-server-extensions/Z-Ray-Magento.git
+[submodule "Samples"]
+	path = Samples
+	url = https://github.com/zend-server-extensions/Z-Ray-Samples.git
+[submodule "Symfony"]
+	path = Symfony
+	url = https://github.com/zend-server-extensions/Z-Ray-Symfony.git
+[submodule "Wordpress"]
+	path = Wordpress
+	url = https://github.com/zend-server-extensions/Z-Ray-Wordpress.git
+[submodule "XmltoolKit"]
+	path = XmltoolKit
+	url = https://github.com/zend-server-extensions/Z-Ray-XmltoolKit.git
+[submodule "ZF1"]
+	path = ZF1
+	url = https://github.com/zend-server-extensions/Z-Ray-ZF1.git
+[submodule "ZF2"]
+	path = ZF2
+	url = https://github.com/zend-server-extensions/Z-Ray-ZF2.git
+
