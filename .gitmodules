@@ -26,3 +26,12 @@
 	path = ZF2
 	url = https://github.com/zend-server-extensions/Z-Ray-ZF2.git
 
+[submodule "Laravel"]
+	path = Laravel
+	url = https://github.com/zend-server-extensions/Z-Ray-Laravel.git
+[submodule "Composer"]
+	path = Composer
+	url = https://github.com/zend-server-extensions/Z-Ray-Laravel.git
+[submodule "Documentation"]
+	path = Documentation
+	url = https://github.com/zend-server-extensions/Z-Ray-Laravel.git
