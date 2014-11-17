@@ -29,9 +29,3 @@
 [submodule "Laravel"]
 	path = Laravel
 	url = https://github.com/zend-server-extensions/Z-Ray-Laravel.git
-[submodule "Composer"]
-	path = Composer
-	url = https://github.com/zend-server-extensions/Z-Ray-Composer.git
-[submodule "Documentation"]
-	path = Documentation
-	url = https://github.com/zend-server-extensions/Z-Ray-Documentation.git
